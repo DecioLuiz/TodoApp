@@ -61,15 +61,27 @@ TodoApp/app/src/main/java/
 
 ## Screenshots
 
+Database Schema:
+
 ![Database Schema](/esquema_banco_de_dados.png)
+
+MainScreen:
 
 ![MainScreen](/Tela_princial_01.png)
 
+Add Project Screen:
+
 ![Add Project screen](/tela_cadastro_projeto.png)
+
+Add Task Screen:
 
 ![Add Task screen](/tela_cadastro_tarefas.png)
 
+Edit Task Screen (with old data loaded):
+
 ![Edit Task screen](/tela_edicao_tarefa.png)
+
+MainScreen with data loaded:
 
 ![MainScreen with data](/tela_principal_com_dados.png)
 
