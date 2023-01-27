@@ -53,8 +53,23 @@ Beginner Dev, starting to study JavaScript, Python, Programming Logic. Currently
 ## Lessons Learned
 
 In the development of this project, I reinforced my knowledge of OOP and SQL, I learned how to connect the app to the database, a little about error handling in Java and also the creation of a graphical interface.
+
+## Folder with source code
+
+TodoApp/app/src/main/java/
+
+
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Database Schema](/esquema_banco_de_dados.png)
 
+![MainScreen](/Tela_princial_01.png)
+
+![Add Project screen](/tela_cadastro_projeto.png)
+
+![Add Task screen](/tela_cadastro_tarefas.png)
+
+![Edit Task screen](/tela_edicao_tarefa.png)
+
+![MainScreen with data](/tela_principal_com_dados.png)
 
